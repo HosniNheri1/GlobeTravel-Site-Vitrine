@@ -1,6 +1,7 @@
 # GlobeTravel — Agence de voyage (site vitrine)
 
 Ce projet est une **page web professionnelle** pour une agence de voyage fictive nommée **GlobeTravel**. Il présente une interface moderne, responsive et entièrement statique (HTML / CSS / JS) destinée à démontrer des compétences en **intégration front-end**.
+
 🌐 Voir le site en direct :https://hosninheri1.github.io/GlobeTravel-Site-Vitrine/
 
 ## ✨ Fonctionnalités
